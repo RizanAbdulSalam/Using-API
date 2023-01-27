@@ -1,5 +1,7 @@
 // https://dog.ceo/api/breeds/image/random
-// .then -> Promises!
+// .then means => Promises!
+
+
 let dogImg = document.getElementById('randomDogImg')
 let dogBtn = document.getElementById('dogBtn')
 
