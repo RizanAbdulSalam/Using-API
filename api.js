@@ -15,4 +15,4 @@ const imgDog = () => {
     )
 }
 
-dogBtn.onclick = () => imgDog()=3
+dogBtn.onclick = () => imgDog()
