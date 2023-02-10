@@ -1,4 +1,4 @@
-// https://dog.ceo/api/breeds/image/random
+// https://dog.ceo/api/breeds/image/random -> API LINK
 // .then means => Promises!
 
 
